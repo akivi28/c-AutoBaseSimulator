@@ -1,0 +1,11 @@
+﻿  AutoBazaN.cpp
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\Driver.h(26,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\AutoBazaN.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Goods.cpp
+  СontrolСenter.cpp
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\Driver.h(26,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\СontrolСenter.cpp(123,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\СontrolСenter.cpp(76): warning C4715: СontrolСenter::ComparisonByExperience: значение возвращается не при всех путях выполнения
+C:\Users\OrbitaPC260\source\repos\AutoBazaN\AutoBazaN\СontrolСenter.cpp(401): warning C4715: СontrolСenter::AutoCompareDriver: значение возвращается не при всех путях выполнения
+  AutoBazaN.vcxproj -> C:\Users\OrbitaPC260\source\repos\AutoBazaN\x64\Debug\AutoBazaN.exe
